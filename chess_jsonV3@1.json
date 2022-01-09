@@ -1,0 +1,5704 @@
+{
+  "name": "moves",
+  "children": [
+    {
+      "name": "d4",
+      "children": [
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Bf4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "a4",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "Bg5",
+              "value": 1
+            },
+            {
+              "name": "h4",
+              "value": 1
+            },
+            {
+              "name": "Qd3",
+              "value": 1
+            },
+            {
+              "name": "Bd2",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "g4",
+              "value": 1
+            },
+            {
+              "name": "Nd2",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Bf4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Bg5",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "d5",
+              "value": 1
+            },
+            {
+              "name": "h4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nd2",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "Qd3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "d5",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "Bf4",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Bf4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "h4",
+              "value": 1
+            },
+            {
+              "name": "d5",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Bf4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "d5",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Bh6",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f5",
+          "children": [
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Bg5",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Bf4",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "Qd3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d6",
+          "children": [
+            {
+              "name": "Bf4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Bg5",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d5",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Qd3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c6",
+          "children": [
+            {
+              "name": "Bf4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Bg5",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "Bd2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "h6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Bf4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "a4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Bf4",
+              "value": 1
+            },
+            {
+              "name": "d5",
+              "value": 1
+            },
+            {
+              "name": "Bg5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "dxe5",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "d5",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Bd2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b5",
+          "children": [
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "Bf4",
+              "value": 1
+            },
+            {
+              "name": "Na3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "d5",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "dxc5",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Bf4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nh6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d5",
+              "value": 1
+            },
+            {
+              "name": "Nh3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "h5",
+          "children": [
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "a6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Bf4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "a5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Na6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g5",
+          "value": 1
+        },
+        {
+          "name": "d4",
+          "children": [
+            {
+              "name": "Nf6",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f3",
+          "children": [
+            {
+              "name": "e5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e4",
+          "children": [
+            {
+              "name": "e6",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "e4",
+      "children": [
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "Bb5",
+              "value": 1
+            },
+            {
+              "name": "Ne2",
+              "value": 1
+            },
+            {
+              "name": "Be2",
+              "value": 1
+            },
+            {
+              "name": "Bd3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "a4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Qg4",
+              "value": 1
+            },
+            {
+              "name": "Ke2",
+              "value": 1
+            },
+            {
+              "name": "g4",
+              "value": 1
+            },
+            {
+              "name": "h4",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "e5",
+              "value": 1
+            },
+            {
+              "name": "Bb5",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Be2",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "Bd3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Qg4",
+              "value": 1
+            },
+            {
+              "name": "Na3",
+              "value": 1
+            },
+            {
+              "name": "h4",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "Nh3",
+              "value": 1
+            },
+            {
+              "name": "Ne2",
+              "value": 1
+            },
+            {
+              "name": "Ke2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Bb5",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "Ke2",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Qe2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "exd5",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "e5",
+              "value": 1
+            },
+            {
+              "name": "Qe2",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "Nh3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Bb5+",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "Bd3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Be2",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Qe2",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "e5",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "Nh3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Be2",
+              "value": 1
+            },
+            {
+              "name": "Bb5",
+              "value": 1
+            },
+            {
+              "name": "Na3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Ke2",
+              "value": 1
+            },
+            {
+              "name": "h4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Ne2",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "g4",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "a4",
+              "value": 1
+            },
+            {
+              "name": "Bd3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "e5",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c6",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "e5",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Ne2",
+              "value": 1
+            },
+            {
+              "name": "Qg4",
+              "value": 1
+            },
+            {
+              "name": "Be2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "h5",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Be2",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "Bb5",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "Ne2",
+              "value": 1
+            },
+            {
+              "name": "e5",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b6",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Bb5",
+              "value": 1
+            },
+            {
+              "name": "Ne2",
+              "value": 1
+            },
+            {
+              "name": "Bd3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "e5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "h6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Qh5+",
+              "value": 1
+            },
+            {
+              "name": "e5",
+              "value": 1
+            },
+            {
+              "name": "Nh3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b3",
+          "children": [
+            {
+              "name": "g6",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f5",
+          "children": [
+            {
+              "name": "Qh5+",
+              "value": 1
+            },
+            {
+              "name": "exf5",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "e5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nh6",
+          "children": [
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "Bd3",
+              "value": 1
+            },
+            {
+              "name": "Bb5",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "g4",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "e5",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e4",
+          "children": [
+            {
+              "name": "b6",
+              "value": 1
+            },
+            {
+              "name": "e5",
+              "value": 1
+            },
+            {
+              "name": "c6",
+              "value": 1
+            },
+            {
+              "name": "e6",
+              "value": 1
+            },
+            {
+              "name": "c5",
+              "value": 1
+            },
+            {
+              "name": "h6",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c4",
+          "children": [
+            {
+              "name": "Nf6",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Ke2",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Bb5+",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "Nh3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "a6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "e5",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b5",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Bxb5",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Na6",
+          "children": [
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "a5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "a4",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "e3",
+      "children": [
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Qe2",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "Ne2",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "h4",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Be2",
+              "value": 1
+            },
+            {
+              "name": "Ba6",
+              "value": 1
+            },
+            {
+              "name": "Bb5",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "Bd3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "Qg4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "Na3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Bb5+",
+              "value": 1
+            },
+            {
+              "name": "Be2",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Qe2",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "Be2",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "g4",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "Bb5",
+              "value": 1
+            },
+            {
+              "name": "Qg4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f5",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Be2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d6",
+          "children": [
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "Qh5",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b6",
+          "children": [
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "Nh3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Bc4",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g5",
+          "children": [
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "h4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Bb5",
+              "value": 1
+            },
+            {
+              "name": "Be2",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c6",
+          "children": [
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "h5",
+          "children": [
+            {
+              "name": "Qf3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "c4",
+      "children": [
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "a4",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Qa4",
+              "value": 1
+            },
+            {
+              "name": "c5",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "Qb3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "cxd5",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "c5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "Qc2",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "a4",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "c5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "h4",
+              "value": 1
+            },
+            {
+              "name": "Qa4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "Nh3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b6",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d6",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b5",
+          "children": [
+            {
+              "name": "cxb5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "a6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g5",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "a5",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nf3",
+      "children": [
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "Nxe5",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Nd4",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Ne5",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nd4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "Ne5",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "Nd4",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b6",
+          "children": [
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c6",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "g4",
+              "value": 1
+            },
+            {
+              "name": "Na3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "Ne5",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f5",
+          "children": [
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f6",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b5",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d4",
+          "children": [
+            {
+              "name": "d6",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Na6",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "h6",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "a4",
+      "children": [
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "h4",
+              "value": 1
+            },
+            {
+              "name": "Ra3",
+              "value": 1
+            },
+            {
+              "name": "a5",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Na3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g5",
+          "children": [
+            {
+              "name": "b3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "h4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "a5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "h4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "a6",
+          "children": [
+            {
+              "name": "c4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "g4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "e3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "a5",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nh3",
+      "children": [
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Na3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "g4",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "e3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Na6",
+          "children": [
+            {
+              "name": "Na3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "g3",
+      "children": [
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Bg2",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "Bh3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "Bg2",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c6",
+          "children": [
+            {
+              "name": "Bg2",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Bh3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Bg2",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Bg2",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e4",
+          "children": [
+            {
+              "name": "c5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "Bg2",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "Bg2",
+              "value": 1
+            },
+            {
+              "name": "g4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "Bg2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b6",
+          "children": [
+            {
+              "name": "Bg2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nh6",
+          "children": [
+            {
+              "name": "Bg2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d6",
+          "children": [
+            {
+              "name": "Bg2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "h6",
+          "children": [
+            {
+              "name": "Bg2",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "h4",
+      "children": [
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "a4",
+              "value": 1
+            },
+            {
+              "name": "h5",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Rh3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "Rh2",
+              "value": 1
+            },
+            {
+              "name": "a4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Rh3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "g3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d6",
+          "children": [
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "g4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Rh3",
+              "value": 1 
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "f4",
+      "children": [
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "g4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Kf2",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "g4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f5",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "fxe5",
+              "value": 1
+            },
+            {
+              "name": "g4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c6",
+          "children": [
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f6",
+          "children": [
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "b4",
+      "children": [
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            },
+            {
+              "name": "b5",
+              "value": 1
+            },
+            {
+              "name": "a4",
+              "value": 1
+            },
+            {
+              "name": "Ba3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Nh3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "Na3",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "a5",
+          "children": [
+            {
+              "name": "b5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f6",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Bb2",
+              "value": 1
+            },
+            {
+              "name": "b5",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "Bb2",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "b5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Bb2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d6",
+          "value": 1
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "a3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b6",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c6",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "b5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b5",
+          "children": [
+            {
+              "name": "a4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f5",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nc3",
+      "children": [
+        {
+          "name": "c6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b6",
+          "children": [
+            {
+              "name": "b4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "Nxd5",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Ne4",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "Na4",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Ne4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f5",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "a6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Nd5",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nh6",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "b3",
+      "children": [
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Bb2",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "a4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Bb2",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d6",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b6",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f6",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "a5",
+          "children": [
+            {
+              "name": "c3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nh6",
+          "children": [
+            {
+              "name": "Bb2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f5",
+          "children": [
+            {
+              "name": "c4",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "h3",
+      "children": [
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b6",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "d3",
+      "children": [
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "Be3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "h4",
+              "value": 1
+            },
+            {
+              "name": "Bf4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "Nd2",
+              "value": 1
+            },
+            {
+              "name": "Be3",
+              "value": 1
+            },
+            {
+              "name": "Bg5",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Bf4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Nd2",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Bd2",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f5",
+          "children": [
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "a5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d6",
+          "children": [
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "f6",
+          "value": 1
+        },
+        {
+          "name": "g5",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c6",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e4",
+          "children": [
+            {
+              "name": "e5",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "f3",
+      "children": [
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "Kf2",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "g4",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "c4",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c6",
+          "children": [
+            {
+              "name": "Nh3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "Kf2",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "g4",
+      "children": [
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "Bg2",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "g5",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "Bg2",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            },
+            {
+              "name": "g5",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "g5",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "Bg2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "a5",
+          "children": [
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "h3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "Bg2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c6",
+          "children": [
+            {
+              "name": "c3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "h6",
+          "children": [
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "a3",
+      "children": [
+        {
+          "name": "c6",
+          "children": [
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "Ra2",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "h4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Ra2",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "c3",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "g3",
+              "value": 1
+            },
+            {
+              "name": "Nc3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "b6",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "b4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nc6",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "c3",
+      "children": [
+        {
+          "name": "d5",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "a3",
+              "value": 1
+            },
+            {
+              "name": "a4",
+              "value": 1
+            },
+            {
+              "name": "b4",
+              "value": 1
+            },
+            {
+              "name": "b3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Qa4",
+              "value": 1
+            },
+            {
+              "name": "Nf3",
+              "value": 1
+            },
+            {
+              "name": "Na3",
+              "value": 1
+            },
+            {
+              "name": "d3",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            },
+            {
+              "name": "f4",
+              "value": 1
+            },
+            {
+              "name": "Qc2",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "g6",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Qb3",
+              "value": 1
+            },
+            {
+              "name": "Qa4",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "e6",
+          "children": [
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "Qa4",
+              "value": 1
+            },
+            {
+              "name": "e3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "Qa4",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            },
+            {
+              "name": "h3",
+              "value": 1
+            },
+            {
+              "name": "Qc2",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "d6",
+          "children": [
+            {
+              "name": "Qa4+",
+              "value": 1
+            },
+            {
+              "name": "e4",
+              "value": 1
+            },
+            {
+              "name": "Qb3",
+              "value": 1
+            },
+            {
+              "name": "f3",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "c5",
+          "children": [
+            {
+              "name": "Qb3",
+              "value": 1
+            },
+            {
+              "name": "d4",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Na3",
+      "children": [
+        {
+          "name": "e5",
+          "children": [
+            {
+              "name": "e3",
+              "value": 1
+            },
+            {
+              "name": "Nb5",
+              "value": 1
+            },
+            {
+              "name": "Rab1",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "Nf6",
+          "children": [
+            {
+              "name": "b3",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
